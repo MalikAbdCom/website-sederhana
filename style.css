@@ -1,0 +1,22 @@
+p {
+  color: blue;
+}
+button {
+  border: 2px solid red;
+}
+.login-aja {
+  background: green;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+.logout-bang {
+  background: red;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+#ini-unik {
+  color: red;
+  border: 1px solid blue;
+}
